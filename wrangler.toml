@@ -1,8 +1,8 @@
-name = "drive"
+name = "fragrant-limit-faa8"
 type = "webpack"
 workers_dev = true
-account_id = "b87997a496f985b46b927b3f24c61de1"
-zone_id = "b04152d2c33ff4653cec1a579be6d42a"
+account_id = "dad58f4903628dd2dc12141480fc592e"
+zone_id = "dad58f4903628dd2dc12141480fc592e"
 
 [env.staging]
 name = "drive-staging"
